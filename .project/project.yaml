@@ -1,0 +1,8 @@
+name: "wackssenger"
+description: "Implémentation de l'interface graphique de Messenger. (exercice)"
+topics: []
+homepage: ""
+source:
+  provider: gitlab
+  namespace: "sachahjkl"
+  path: "sachahjkl/wackssenger"
